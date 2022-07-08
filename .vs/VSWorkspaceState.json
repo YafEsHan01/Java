@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProductCatalog",
+    "\\ProductCatalog\\Application",
+    "\\ProductCatalog\\Business",
+    "\\ProductCatalog\\Business\\Concrete",
+    "\\ProductCatalog\\Data",
+    "\\ProductCatalog\\Data\\Repositories"
+  ],
+  "PreviewInSolutionExplorer": false
+}
